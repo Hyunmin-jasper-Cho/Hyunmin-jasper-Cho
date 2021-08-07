@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### My name is Hyunmin.Cho, studying CS in [Gachon University][schoollink].
+
+[schoollink]: https://gachon.ac.kr "visit school"
+
+> - 🌱 I’m currently learning ...
+
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunmin-jasper-Cho&show_icons=true&theme=react)
 
