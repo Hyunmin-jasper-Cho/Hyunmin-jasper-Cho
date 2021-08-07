@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunmin-jasper-Cho&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunmin-jasper-Cho&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunmin-jasper-Cho&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunmin-jasper-Cho&theme=react)
 
 <!--
 **Hyunmin-jasper-Cho/Hyunmin-jasper-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
