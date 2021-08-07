@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunmin-jasper-Cho&show_icons=true&theme=tokyonight)
 
 <!--
 **Hyunmin-jasper-Cho/Hyunmin-jasper-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
