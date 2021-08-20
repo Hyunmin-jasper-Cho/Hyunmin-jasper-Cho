@@ -9,8 +9,6 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunmin-jasper-Cho&show_icons=true&theme=react)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunmin-jasper-Cho&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
