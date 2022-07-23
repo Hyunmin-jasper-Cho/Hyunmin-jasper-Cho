@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 #### My name is Hyunmin.Cho, studying CS in [Gachon University][schoollink].
+#### IEEE/CVF CLIC2022 Workshop accepted challenge paper: [Super Resolution Based Video Coding Scheme](https://openaccess.thecvf.com/content/CVPR2022W/CLIC/papers/Cho_Super-Resolution_Based_Video_Coding_Scheme_CVPRW_2022_paper.pdf)
 
 [schoollink]: https://gachon.ac.kr "visit school"
 
-> - 🌱 I’m currently learning ...
+> - 🌱 I’m currently learning about Image/Video Processing
 
 
 
